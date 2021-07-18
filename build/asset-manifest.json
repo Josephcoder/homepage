@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.863281f2.chunk.css",
+    "main.js": "/static/js/main.54a3543b.chunk.js",
+    "main.js.map": "/static/js/main.54a3543b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4302f155.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4302f155.js.map",
+    "static/js/2.473b3f02.chunk.js": "/static/js/2.473b3f02.chunk.js",
+    "static/js/2.473b3f02.chunk.js.map": "/static/js/2.473b3f02.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.863281f2.chunk.css.map": "/static/css/main.863281f2.chunk.css.map",
+    "static/js/2.473b3f02.chunk.js.LICENSE.txt": "/static/js/2.473b3f02.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Backgroundvectors.3a392ede.png",
+    "static/media/PersonHero.068a0d67.png": "/static/media/PersonHero.068a0d67.png",
+    "static/media/UniversityOfRwanda.dad18863.png": "/static/media/UniversityOfRwanda.dad18863.png",
+    "static/media/mineduc.325344fc.svg": "/static/media/mineduc.325344fc.svg",
+    "static/media/proctoring.d5ba92b1.png": "/static/media/proctoring.d5ba92b1.png",
+    "static/media/reb.9b50ed17.png": "/static/media/reb.9b50ed17.png",
+    "static/media/risa.df3c2a4c.png": "/static/media/risa.df3c2a4c.png",
+    "static/media/wda.d72c6027.png": "/static/media/wda.d72c6027.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4302f155.js",
+    "static/js/2.473b3f02.chunk.js",
+    "static/css/main.863281f2.chunk.css",
+    "static/js/main.54a3543b.chunk.js"
+  ]
+}
