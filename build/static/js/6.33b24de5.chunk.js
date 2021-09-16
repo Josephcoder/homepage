@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-redux-typescript-advance"]=this["webpackJsonpreact-redux-typescript-advance"]||[]).push([[6],{192:function(e,t,c){"use strict";c.r(t),c.d(t,"UserDashboard",(function(){return a}));c(2);var r=c(117),s=c(1),a=function(){return Object(s.jsx)("div",{className:"",children:Object(s.jsx)(r.a,{})})}}}]);
-//# sourceMappingURL=6.33b24de5.chunk.js.map
