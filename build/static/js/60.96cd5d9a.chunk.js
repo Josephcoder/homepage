@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-redux-typescript-advance"]=this["webpackJsonpreact-redux-typescript-advance"]||[]).push([[60],{842:function(t,e,n){"use strict";n.r(e),n.d(e,"Marking",(function(){return s}));var r=n(21),c=n(20),a=n(23),i=n(22),u=n(4),p=n(1),s=function(t){Object(a.a)(n,t);var e=Object(i.a)(n);function n(){return Object(r.a)(this,n),e.apply(this,arguments)}return Object(c.a)(n,[{key:"render",value:function(){return Object(p.jsx)("div",{children:"Marking"})}}]),n}(u.Component);e.default=s}}]);
+//# sourceMappingURL=60.96cd5d9a.chunk.js.map
