@@ -38,8 +38,8 @@
     "static/js/17.e8adc4e7.chunk.js": "/static/js/17.e8adc4e7.chunk.js",
     "static/js/17.e8adc4e7.chunk.js.map": "/static/js/17.e8adc4e7.chunk.js.map",
     "main.css": "/static/css/main.e1260a03.chunk.css",
-    "main.js": "/static/js/main.f0bf8f14.chunk.js",
-    "main.js.map": "/static/js/main.f0bf8f14.chunk.js.map",
+    "main.js": "/static/js/main.35fcc3ad.chunk.js",
+    "main.js.map": "/static/js/main.35fcc3ad.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.af55d0a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.af55d0a0.js.map",
     "static/js/20.e9574eff.chunk.js": "/static/js/20.e9574eff.chunk.js",
@@ -159,7 +159,7 @@
     "static/media/UniversityOfRwanda.dad18863.png": "/static/media/UniversityOfRwanda.dad18863.png",
     "static/media/blank_profile.c3f94521.png": "/static/media/blank_profile.c3f94521.png",
     "static/media/guidelines for recruitment_0001.d50f731c.pdf": "/static/media/guidelines for recruitment_0001.d50f731c.pdf",
-    "static/media/list of trades_0001.b5eb1d34.pdf": "/static/media/list of trades_0001.b5eb1d34.pdf",
+    "static/media/list of trades_0001.7948d340.pdf": "/static/media/list of trades_0001.7948d340.pdf",
     "static/media/loading.c7d9f081.gif": "/static/media/loading.c7d9f081.gif",
     "static/media/mineduc.11a9ae1c.png": "/static/media/mineduc.11a9ae1c.png",
     "static/media/mineduc.325344fc.svg": "/static/media/mineduc.325344fc.svg",
@@ -174,6 +174,6 @@
     "static/js/runtime-main.af55d0a0.js",
     "static/js/20.e9574eff.chunk.js",
     "static/css/main.e1260a03.chunk.css",
-    "static/js/main.f0bf8f14.chunk.js"
+    "static/js/main.35fcc3ad.chunk.js"
   ]
 }
