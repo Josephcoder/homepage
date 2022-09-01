@@ -38,8 +38,8 @@
     "static/js/17.e8315a30.chunk.js": "/static/js/17.e8315a30.chunk.js",
     "static/js/17.e8315a30.chunk.js.map": "/static/js/17.e8315a30.chunk.js.map",
     "main.css": "/static/css/main.fd44e146.chunk.css",
-    "main.js": "/static/js/main.f962deea.chunk.js",
-    "main.js.map": "/static/js/main.f962deea.chunk.js.map",
+    "main.js": "/static/js/main.20751c03.chunk.js",
+    "main.js.map": "/static/js/main.20751c03.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ad8a0f98.js",
     "runtime-main.js.map": "/static/js/runtime-main.ad8a0f98.js.map",
     "static/js/20.046c5fed.chunk.js": "/static/js/20.046c5fed.chunk.js",
@@ -179,6 +179,7 @@
     "static/media/Itangazo-2.4e978d08.pdf": "/static/media/Itangazo-2.4e978d08.pdf",
     "static/media/Rwanda-logo.e98c9bb8.png": "/static/media/Rwanda-logo.e98c9bb8.png",
     "static/media/UniversityOfRwanda.dad18863.png": "/static/media/UniversityOfRwanda.dad18863.png",
+    "static/media/Updated Recruitment Exams Timetable  August 31 2022.854297f7.pdf": "/static/media/Updated Recruitment Exams Timetable  August 31 2022.854297f7.pdf",
     "static/media/blank_profile.png": "/static/media/blank_profile.c3f94521.png",
     "static/media/guidelines for recruitment_0001.d50f731c.pdf": "/static/media/guidelines for recruitment_0001.d50f731c.pdf",
     "static/media/list of trades_0001.7948d340.pdf": "/static/media/list of trades_0001.7948d340.pdf",
@@ -196,6 +197,6 @@
     "static/js/runtime-main.ad8a0f98.js",
     "static/js/20.046c5fed.chunk.js",
     "static/css/main.fd44e146.chunk.css",
-    "static/js/main.f962deea.chunk.js"
+    "static/js/main.20751c03.chunk.js"
   ]
 }
